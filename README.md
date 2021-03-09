@@ -17,6 +17,10 @@ Post processing: This section takes the outputs from the nodule detection and Ta
 #### Nodule and tap root detection  
 
 1. Download the repo to local machine.
+      Note: Due to several large .h5 weights files Git-LFS is used in this repro. If not already done you will need to download lfs at (https://git-lfs.github.com/) to run 
+      $ *git lfs install* 
+      in your local repro prior to using 
+      $ *git clone*
 
 2. Download and install the latest version of anaconda. (https://www.anaconda.com/products/individual)
 
