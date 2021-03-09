@@ -61,7 +61,7 @@ To use the first two sections, open a jupyter notebook inside the snap environme
 
 If you use SNAP please cite us:
 
-- Jubery, Talukder Z., Clayton Carley N., Soumik Sarkar, Arti Singh, Baskar Ganapathysubramanian, and Asheesh K. Singh. "Using machine learning to develop a fully automated soybean nodule acquisition pipeline (SNAP)." under review for plant phenomics.
+- Jubery, Talukder Z., Clayton Carley N., Soumik Sarkar, Arti Singh, Baskar Ganapathysubramanian, and Asheesh K. Singh. 2021. Using machine learning to develop a fully automated soybean nodule acquisition pipeline (SNAP). bioRxiv. doi: https://doi.org/10.1101/2020.10.12.336156.
 
 ### Funding Acknowledgements
 
