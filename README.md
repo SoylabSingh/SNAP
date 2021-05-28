@@ -54,7 +54,7 @@ To use the first two sections, open a jupyter notebook inside the snap environme
 
 - To create a csv containing all of the unique nodules of a dataset across all of the roots, run *merge_csvs_nodule_dectection.ipynb* in the post_processing folder. 
 
-###User Assessment
+### User Assessment
 
 -After processing images wth SNAP we recomend a visual assessment of the 'nodules' folder in the Sample_outputs directory for quality of nodule identification. This can be done by visually assessing the number of correctly identified nodules versus missed or incorrectly identified nodules to calculate precision and accuracy on a small sample of images. We also recomend to visually assess the nodules_on_tap_root folder pior to the final post processing to ensure that all of the images have quality nodule and taproot identification. 
 
