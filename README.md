@@ -19,6 +19,8 @@ Post processing: This section takes the outputs from the nodule detection and Ta
 #### Nodule and tap root detection  
 
 1. Download the repo to local machine.
+   1.a The two wts.h5 files needed for the nodule and taproot detection are to large for github and are therefore stored in github LFS and a google drive folder. If you are familar with LFS proceede as normal. If not, please use this link (https://drive.google.com/file/d/1KgExGLnqskTqYKqIKQ0p33OGYQosf97d/view?usp=sharing)to download the "snap_nodule_dector_wts.h5" file and this link (https://drive.google.com/file/d/1U2PzMQI4EEL7rW5FOR8glBr-RZebaRxd/view?usp=sharing) to downlaod the "tap_root_detector_wts.h5" file. 
+   1.b Once the files are downloaded locally please move the nodule detector file into "nodule_detection" folder and replace the placeholder file. Move the taproot detector file into the "tap_root_detection" folder and again replace the placeholder file of the same name. 
 
 2. Download and install the latest version of anaconda. (https://www.anaconda.com/products/individual)
 
