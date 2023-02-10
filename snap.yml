@@ -36,7 +36,7 @@ dependencies:
   - msys2-conda-epoch=20160418=1
   - nbclient=0.5.3=pyhd8ed1ab_0
   - nbconvert=6.0.7=py36ha15d459_3
-  - nbformat=5.1.2=pyhd8ed1ab_1
+  - nbformat=5.1.2
   - nest-asyncio=1.4.3=pyhd8ed1ab_0
   - notebook=6.2.0=py36ha15d459_0
   - packaging=20.9=pyh44b312d_0
